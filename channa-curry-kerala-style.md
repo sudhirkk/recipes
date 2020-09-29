@@ -20,7 +20,7 @@
  * Ginger - a small piece, peeled and minced.
  * Oil - 3-4 teaspoons as needed
 
-![Channa Curry](img/channa-curry.jpg =250x)
+![Channa Curry](img/channa-curry.jpg)
 
 ## Procedure
 
